@@ -1,0 +1,374 @@
+{
+  "JAGO": {
+    "est": "1992",
+    "estAs": "PT Bank Artos Indonesia (Bandung)",
+    "prev": "Bank Artos Indonesia Tbk",
+    "rebrand": "2020",
+    "owner": "GoTo · GIC · Metamorfosis Ekosistem Indonesia",
+    "ticker": "ARTO — BEI",
+    "hq": "Jakarta",
+    "note": "Berawal sebagai bank keluarga pengusaha tekstil di Bandung, Bank Artos diambil alih Jerry Ng dan Patrick Walujo pada 2019 lalu berganti nama menjadi Bank Jago — pelopor model bank berbasis ekosistem di Indonesia.",
+    "tl": [
+      [
+        "1992",
+        "Berdiri di Bandung sebagai PT Bank Artos Indonesia"
+      ],
+      [
+        "2016",
+        "Mencatatkan saham di BEI dengan kode ARTO"
+      ],
+      [
+        "2019",
+        "Diakuisisi MEI (Jerry Ng) & Wealth Track Technology"
+      ],
+      [
+        "2020",
+        "Berganti nama menjadi Bank Jago; GoPay masuk sebagai pemegang saham"
+      ],
+      [
+        "2021",
+        "Peluncuran aplikasi Jago (April)"
+      ]
+    ]
+  },
+  "SEABANK": {
+    "est": "1991",
+    "estAs": "PT Bank Kesejahteraan Ekonomi (BKE)",
+    "prev": "Bank Kesejahteraan Ekonomi",
+    "rebrand": "2021",
+    "owner": "Sea Group (Shopee)",
+    "ticker": "Tidak tercatat di bursa",
+    "hq": "Jakarta",
+    "note": "Semula bank yang melayani koperasi dan pegawai negeri, BKE diambil alih Sea Group dan menjelma menjadi SeaBank — bertumpu pada aliran transaksi ekosistem Shopee.",
+    "tl": [
+      [
+        "1991",
+        "Berdiri sebagai Bank Kesejahteraan Ekonomi"
+      ],
+      [
+        "2021",
+        "Diakuisisi Sea Group dan berganti nama SeaBank"
+      ],
+      [
+        "2021",
+        "Integrasi pembayaran dengan ekosistem Shopee"
+      ],
+      [
+        "2023",
+        "Menjadi salah satu penghimpun DPK terbesar di sektor bank digital"
+      ]
+    ]
+  },
+  "BLU": {
+    "est": "1965",
+    "estAs": "PT Bank Rakjat Parahyangan (Ciparay, Bandung)",
+    "prev": "PT Bank Royal Indonesia",
+    "rebrand": "2020",
+    "owner": "PT Bank Central Asia Tbk",
+    "ticker": "Tidak tercatat (anak usaha BCA)",
+    "hq": "Jakarta",
+    "note": "Institusi tertua dalam kelompok ini: berdiri 1965 sebagai bank pasar di Jawa Barat, naik status menjadi Bank Royal Indonesia pada 1990, lalu dibeli BCA untuk menjadi kanal digital murni bernama blu.",
+    "tl": [
+      [
+        "1965",
+        "Didirikan sebagai PT Bank Rakjat Parahyangan"
+      ],
+      [
+        "1990",
+        "Naik status jadi bank umum: PT Bank Royal Indonesia"
+      ],
+      [
+        "2019",
+        "Diakuisisi PT Bank Central Asia Tbk"
+      ],
+      [
+        "2020",
+        "Berganti nama menjadi PT Bank Digital BCA"
+      ],
+      [
+        "2021",
+        "Aplikasi blu diluncurkan (2 Juli)"
+      ]
+    ]
+  },
+  "KROM": {
+    "est": "1957",
+    "estAs": "NV Bank Ekonomi Nasional (Bandung)",
+    "prev": "PT Bank Bisnis Internasional Tbk",
+    "rebrand": "2023",
+    "owner": "Kredivo Group (FinAccel)",
+    "ticker": "BBSI — BEI",
+    "hq": "Jakarta",
+    "note": "Bank tertua di daftar ini — berdiri 1957 di Bandung — yang setelah 65 tahun beralih kendali ke Kredivo Group dan dilahirkan kembali sebagai bank digital bersuku bunga tinggi untuk generasi muda.",
+    "tl": [
+      [
+        "1957",
+        "Berdiri di Bandung sebagai Bank Ekonomi Nasional"
+      ],
+      [
+        "1996",
+        "Berganti nama menjadi Bank Bisnis Internasional"
+      ],
+      [
+        "2021",
+        "IPO di Bursa Efek Indonesia (BBSI)"
+      ],
+      [
+        "2022",
+        "FinAccel/Kredivo menjadi pemegang saham mayoritas"
+      ],
+      [
+        "2023",
+        "Berganti nama menjadi Krom Bank Indonesia"
+      ],
+      [
+        "2024",
+        "Aplikasi Krom resmi diluncurkan (Februari)"
+      ]
+    ]
+  },
+  "NEOBANK": {
+    "est": "1990",
+    "estAs": "PT Bank Yudha Bhakti",
+    "prev": "Bank Yudha Bhakti",
+    "rebrand": "2021",
+    "owner": "Akulaku Group",
+    "ticker": "BBYB — BEI",
+    "hq": "Jakarta",
+    "note": "Dulu bank purnawirawan TNI/Polri, Bank Yudha Bhakti berubah arah total setelah Akulaku masuk — menjadi Bank Neo Commerce dengan strategi akuisisi nasabah paling agresif di kelasnya.",
+    "tl": [
+      [
+        "1990",
+        "Berdiri sebagai Bank Yudha Bhakti"
+      ],
+      [
+        "2015",
+        "Mencatatkan saham di BEI"
+      ],
+      [
+        "2019",
+        "Akulaku masuk sebagai pemegang saham utama"
+      ],
+      [
+        "2021",
+        "Berganti nama Bank Neo Commerce; aplikasi neobank rilis Maret"
+      ],
+      [
+        "2023",
+        "Menembus 20+ juta pengguna terdaftar"
+      ]
+    ]
+  },
+  "RAYA": {
+    "est": "1989",
+    "estAs": "PT Bank Agroniaga (Dana Pensiun Perkebunan)",
+    "prev": "PT Bank Rakyat Indonesia Agroniaga Tbk (BRI Agro)",
+    "rebrand": "2021",
+    "owner": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "ticker": "AGRO — BEI",
+    "hq": "Jakarta",
+    "note": "Lahir sebagai bank agribisnis milik dana pensiun perkebunan, lalu diakuisisi BRI. Sejak 2021 diposisikan sebagai Bank Raya: lengan digital BRI untuk pekerja gig dan UMKM.",
+    "tl": [
+      [
+        "1989",
+        "Berdiri sebagai Bank Agroniaga"
+      ],
+      [
+        "2003",
+        "Mencatatkan saham di BEI (AGRO)"
+      ],
+      [
+        "2011",
+        "Diakuisisi BRI menjadi BRI Agroniaga"
+      ],
+      [
+        "2021",
+        "Berganti nama menjadi Bank Raya Indonesia"
+      ],
+      [
+        "2022",
+        "Fokus pada produk digital pekerja harian & UMKM"
+      ]
+    ]
+  },
+  "ALLO": {
+    "est": "1993",
+    "estAs": "PT Bank Arta Griya",
+    "prev": "PT Bank Harda Internasional Tbk (BHI)",
+    "rebrand": "Juni 2021",
+    "owner": "CT Corp (Mega Corpora)",
+    "ticker": "BBHI — BEI",
+    "hq": "Jakarta",
+    "note": "Bank Harda Internasional dibeli Mega Corpora milik Chairul Tanjung dan diubah menjadi Allo Bank — tulang punggung finansial ekosistem CT Corp bersama Bukalapak, Grab, dan Salim Group.",
+    "tl": [
+      [
+        "1993",
+        "Berdiri sebagai PT Bank Arta Griya"
+      ],
+      [
+        "1996",
+        "Berganti nama menjadi Bank Harda Internasional"
+      ],
+      [
+        "2015",
+        "IPO di Bursa Efek Indonesia"
+      ],
+      [
+        "2021",
+        "Diakuisisi Mega Corpora; berganti nama Allo Bank (Juni)"
+      ],
+      [
+        "2022",
+        "Rights issue: Bukalapak, Grab, dan Salim Group masuk"
+      ]
+    ]
+  },
+  "AMAR": {
+    "est": "1991",
+    "estAs": "PT Anglomas International Bank (Amin Bank), Surabaya",
+    "prev": "Anglomas International Bank",
+    "rebrand": "2014",
+    "owner": "Tolaram Group",
+    "ticker": "AMAR — BEI",
+    "hq": "Jakarta (awal: Surabaya)",
+    "note": "Bank digital tertua secara praktik: Tolaram Group mengakuisisi Amin Bank pada 2014 dan meluncurkan Tunaiku, produk pinjaman mikro berbasis aplikasi pertama di Indonesia.",
+    "tl": [
+      [
+        "1991",
+        "Berdiri di Surabaya sebagai Anglomas International Bank"
+      ],
+      [
+        "2014",
+        "Diakuisisi Tolaram Group menjadi Amar Bank; Tunaiku diluncurkan"
+      ],
+      [
+        "2020",
+        "IPO di Bursa Efek Indonesia (AMAR)"
+      ],
+      [
+        "2022",
+        "Peluncuran aplikasi bank digital Senyumku"
+      ]
+    ]
+  },
+  "ALADIN": {
+    "est": "1994",
+    "estAs": "PT Bank Maybank Indocorp (bank patungan)",
+    "prev": "PT Bank Maybank Syariah Indonesia",
+    "rebrand": "2021",
+    "owner": "PT Aladin Global Ventures",
+    "ticker": "BANK — BEI",
+    "hq": "Jakarta",
+    "note": "Berawal dari bank patungan Maybank yang kemudian menjadi Maybank Syariah Indonesia; sejak 2021 bertransformasi menjadi Bank Aladin Syariah — bank syariah digital dengan kemitraan ritel Alfamart.",
+    "tl": [
+      [
+        "1994",
+        "Berdiri sebagai bank patungan (kemudian Bank Maybank Indocorp)"
+      ],
+      [
+        "2010",
+        "Beroperasi sebagai Bank Maybank Syariah Indonesia"
+      ],
+      [
+        "2021",
+        "Diakuisisi dan berganti nama Bank Aladin Syariah; IPO di BEI"
+      ],
+      [
+        "2022",
+        "Kemitraan ekosistem ritel (Alfamart) diperluas"
+      ]
+    ]
+  },
+  "HIBANK": {
+    "est": "1993",
+    "estAs": "PT Bank Mayora (Grup Mayora)",
+    "prev": "PT Bank Mayora",
+    "rebrand": "2023",
+    "owner": "PT Bank Negara Indonesia (Persero) Tbk",
+    "ticker": "Tidak tercatat (anak usaha BNI)",
+    "hq": "Jakarta",
+    "note": "Bank Mayora — milik grup makanan-minuman Mayora — diakuisisi BNI pada 2022 dan direposisi sebagai hibank, bank digital yang membidik rantai pasok UMKM.",
+    "tl": [
+      [
+        "1993",
+        "Bank Mayora resmi berdiri (Februari)"
+      ],
+      [
+        "2022",
+        "BNI mengakuisisi 63,92% saham"
+      ],
+      [
+        "2023",
+        "Berganti nama menjadi hibank, fokus UMKM & supply chain"
+      ],
+      [
+        "2024",
+        "Integrasi layanan dengan ekosistem BNI"
+      ]
+    ]
+  },
+  "SAQU": {
+    "est": "1969",
+    "estAs": "PT Bank Jasa Jakarta (BJJ)",
+    "prev": "PT Bank Jasa Jakarta",
+    "rebrand": "2023",
+    "owner": "Astra Financial & WeLab",
+    "ticker": "Tidak tercatat di bursa",
+    "hq": "Jakarta",
+    "note": "Bank Jasa Jakarta yang berusia lebih dari lima dekade dibeli patungan Astra Financial dan WeLab, lalu diluncurkan ulang sebagai Bank Saqu untuk segmen solopreneur.",
+    "tl": [
+      [
+        "1969",
+        "Berdiri sebagai PT Bank Jasa Jakarta"
+      ],
+      [
+        "2022",
+        "Astra Financial & WeLab menjadi pemegang saham pengendali"
+      ],
+      [
+        "2023",
+        "Aplikasi Bank Saqu diluncurkan (November)"
+      ],
+      [
+        "2025",
+        "Nama badan hukum resmi menjadi PT Bank Saqu Indonesia (Mei)"
+      ]
+    ]
+  },
+  "SUPERBANK": {
+    "est": "1993",
+    "estAs": "PT Bank Fama International (Bandung, 5 Maret 1993)",
+    "prev": "PT Bank Fama International",
+    "rebrand": "Februari 2023",
+    "owner": "Grab · Emtek · Singtel · KakaoBank",
+    "ticker": "SUPA — BEI",
+    "hq": "Jakarta (awal: Bandung)",
+    "note": "Bank Fama International, salah satu bank terakhir era PAKTO 88, berpindah tangan ke konsorsium Emtek–Grab–Singtel–KakaoBank dan menjadi Superbank pada 2023.",
+    "tl": [
+      [
+        "1993",
+        "Berdiri di Bandung sebagai PT Bank Fama International"
+      ],
+      [
+        "2021",
+        "Emtek Group mengambil alih kepemilikan"
+      ],
+      [
+        "2022",
+        "Grab dan Singtel bergabung sebagai pemegang saham"
+      ],
+      [
+        "2023",
+        "Berganti nama menjadi Superbank (Februari); KakaoBank masuk konsorsium"
+      ],
+      [
+        "2024",
+        "Aplikasi Superbank diluncurkan luas"
+      ],
+      [
+        "2026",
+        "Grab menjadi pemegang saham pengendali"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "bank": "SEABANK",
+    "source": "https://appmanager.seabank.co.id/seamoney/bke/app-manager/live/front_low_code/20230920/40abe4c7131b49d2bd27d9994c405e58.svg",
+    "file": "assets/banks/seabank.svg",
+    "bytes": 9750,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "JAGO",
+    "source": "https://www.jago.com/assets/img/jago/img_brand-jago-light.png",
+    "file": "assets/banks/jago.png",
+    "bytes": 1199,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "SUPERBANK",
+    "source": "https://www.superbank.id/content/img/logo_dark.webp",
+    "file": "assets/banks/superbank.webp",
+    "bytes": 12202,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "BLU",
+    "source": "https://blubybcadigital.id/_nuxt/img/logo-color.83f8c3a.png",
+    "file": "assets/banks/blu.png",
+    "bytes": 4265,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "ALADIN",
+    "source": "https://aladinbank.id/uploads/2022/01/Logo-Aladin-2025-blue-1.png",
+    "file": "assets/banks/aladin.png",
+    "bytes": 62589,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "AMAR",
+    "source": "https://storage.googleapis.com/amarbank-new/prod/image/comp/AMR.webp",
+    "file": "assets/banks/amar.webp",
+    "bytes": 4292,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "KROM",
+    "source": "https://krom.id/wp-content/uploads/2022/08/ic_krom_logo.png",
+    "file": "assets/banks/krom.png",
+    "bytes": 1241,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "NEOBANK",
+    "source": "https://www-cms.bankneo.co.id/storage/photos/1/logo/logo_bnc.png",
+    "file": "assets/banks/neobank.png",
+    "bytes": 3215,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "RAYA",
+    "source": "https://bankraya.co.id/img/logo.svg",
+    "file": "assets/banks/raya.svg",
+    "bytes": 7999,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "SAQU",
+    "source": "https://banksaqu.co.id/_next/static/media/logo-3.d71318a2.png",
+    "file": "assets/banks/saqu.png",
+    "bytes": 6850,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "HIBANK",
+    "source": "https://www.hibank.co.id/icons/logo.svg",
+    "file": "assets/banks/hibank.svg",
+    "bytes": 17189,
+    "retrieved": "2026-10-06"
+  },
+  {
+    "bank": "ALLO",
+    "source": "https://www.allobank.com/assets/logo-allo.png",
+    "file": "assets/banks/allo.png",
+    "bytes": 17344,
+    "retrieved": "2026-10-06"
+  }
+]
