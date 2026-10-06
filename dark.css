@@ -1,0 +1,30 @@
+/* Default dark theme. Original bank marks retain their own colors. */
+:root{color-scheme:dark;--bg:#101419;--surface:#171d25;--surface-raised:#1d2530;--ink:#e8edf5;--muted:#adb8c8;--faint:#8c9aad;--line:#2b3543;--blue:#8ba9ff;--blue-soft:#222f49;--green:#6bd3a7;--red:#ff939b}
+body{background:var(--bg);color:var(--ink)}
+.sidebar,.topbar{background:#131920}.workspace{background:var(--surface-raised)}
+.workspace-icon{background:#26313e;border-color:#3a4657}.nav-item{color:var(--muted)}
+.nav-item:hover{background:var(--surface-raised);color:var(--ink)}.nav-item.active{background:var(--blue-soft);color:#adc2ff}
+.breadcrumb span{color:#607089}.brand-mark i{background:#8ba9ff}.live-dot{background:var(--green)}
+.panel,.kpi,.profile-description,.error-box,.insight-strip{background:var(--surface);border-color:var(--line)}
+.button,.field select,.field input,.search-input{background:var(--surface-raised);border-color:#3c495b;color:var(--ink)}
+.button:hover{background:#273345;border-color:#637792}.button.primary{background:#4469d8;border-color:#4469d8;color:#fff}
+.button.text{background:none;color:var(--blue)}.button.small{color:var(--ink)}
+input::placeholder{color:#92a0b3}.period-note .tag{background:#25303e;color:#c3cddd}
+.segmented{background:#11171f}.segmented button.selected{background:#2b3748;color:var(--ink);box-shadow:none}
+.chart-gridline{stroke:#2b3543}.chart-svg text{fill:#a6b4c7}.chart-svg .chart-label{fill:#c8d2e1}.chart-svg .chart-value{fill:var(--ink)}.chart-point{fill:var(--surface)}
+.market-track,.rank-bar{background:#2a3442}.market-summary strong{color:var(--ink)}
+.bank-avatar{background:#fff;border:1px solid #fff;border-radius:4px;padding:4px 3px}
+.bank-chip .bank-avatar{padding:2px}.profile-heading .bank-avatar{padding:7px}
+.bank-chip,.bank-chip[aria-pressed=false]{background:var(--surface-raised);border-color:#3c495b;color:#c1ccdb}
+.bank-chip[aria-pressed=true]{background:#243450;border-color:#8ba9ff;color:#eef3ff}
+th{background:#1b232e;color:#bbc6d6}td{border-bottom-color:#28323f}tbody tr:hover{background:#202b39}
+.insight{border-color:#364355;color:var(--muted)}.insight-label{color:#a0b4d0}.insight strong{color:var(--ink)}
+.pill{background:#1c3d33;color:var(--green)}.pill.loss{background:#43262e;color:var(--red)}.risk-value i{background:var(--red)}
+.note{background:#1d2632;border-color:var(--line)}.timeline li{border-color:#3a4759}
+.footer>span:first-child{color:#c6d1e0}.skip-link{background:var(--surface);color:var(--ink)}
+.toast{background:#dbe7ff;color:#182639}.source-link,.panel-header-action{color:var(--blue)}
+*{scrollbar-color:#495970 #171d25}::selection{background:#385688;color:#fff}
+@media print{
+ :root{color-scheme:light;--ink:#182331;--muted:#536075;--faint:#667385;--line:#dce2e9;--blue:#315cdb;--green:#18795d;--red:#b34245}
+ body,.panel,.kpi,.profile-description,.insight-strip{background:#fff;color:var(--ink)}th{background:#f5f7fa;color:var(--muted)}.chart-svg text{fill:#536075}.chart-point{fill:#fff}.chart-gridline{stroke:#dce2e9}.note{background:#f5f7fa}
+}
