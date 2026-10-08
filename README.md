@@ -37,6 +37,12 @@ Agregat dalam Rp miliar:
 
 Sebanyak 10 dari 12 bank melaporkan laba positif. Pangsa adalah pangsa dalam kelompok 12 bank, bukan seluruh industri perbankan.
 
+## Pembaruan data, 8 Oktober 2026
+
+Folder Drive berisi 12 PDF baru Q2 2025, satu laporan per bank. Ditambahkan 194 observasi Q2 2025 dan 36 angka YoY aset, kredit serta DPK Q2 2026. Dataset kini memiliki 9 periode; periode terbaru tetap Q2 2026. Filter, grafik perbandingan, profil, ekspor dan register sumber mendukung Q2 2025 dengan tautan laporan sesuai periode.
+
+Laba H1 2025 Aladin pada publikasi asli Rp83,123 miliar berbeda dari kolom pembanding Rp80,036 miliar pada laporan Q2 2026. Kedua basis disimpan terpisah; YoY laba Q2 2026 tetap menggunakan pembanding laporan Q2 2026. Penyebab selisih belum dijelaskan dalam sumber yang ditinjau. Rasio Q2 2025 yang tidak tersedia untuk Jago dan Raya, serta LCR/NSFR seluruh bank, tetap kosong.
+
 ### Definisi dan batasan
 
 Satuan laporan Rp juta dibagi 1000; Raya memakai Rp ribu dan dibagi 1000000. DPK = giro + tabungan + deposito nasabah. CASA dihitung dari (giro + tabungan) / DPK. Kredit Jago mencakup pembiayaan syariah; kredit Aladin mencakup piutang dan pembiayaan bagi hasil bruto. Rasio mengikuti publikasi bank dan tidak diisi dari periode lain.
@@ -48,7 +54,11 @@ Untuk Aladin, NPL dipadankan ke NPF gross, LDR ke FDR, dan NIM ke Net Imbalan (N
 - `index.html`, `styles.css`, `app.js`: aplikasi.
 - `data/dashboard_data.json`: dataset, metadata, metodologi dan tautan sumber.
 - `data/reviewed_q2_2026.json`: hasil transkripsi Q2 yang ditinjau, dalam Rp miliar.
-- `data/q2_2026_audit.csv`: audit 201 observasi Q2.
+- `data/q2_2026_audit.csv`: audit 237 observasi Q2 2026, termasuk 36 angka YoY neraca.
+- `data/reviewed_q2_2025.json`: transkripsi 12 laporan Q2 2025 dan nomor halaman sumber.
+- `data/q2_2025_audit.csv`: audit 194 observasi Q2 2025.
+- `data/drive_register_20261008.json`: register 12 PDF baru dari Drive.
+- `scripts/import_q2_2025.py`: impor yang mempertahankan angka historis dan memisahkan basis laba pembanding.
 - `data/bank_profiles.json`: riwayat dari aplikasi sebelumnya.
 - `scripts/validate_data.py`: pemeriksaan konsistensi dataset.
 - `sources/laporan-bank-digital-20261006.zip`: arsip lokal 98 PDF dari Drive, diabaikan Git dan tidak termasuk paket website.
@@ -65,7 +75,7 @@ Pemeriksaan browser mencakup keenam halaman, periode historis/terbaru, penguruta
 
 ## Hosting
 
-Konfigurasi Vercel tetap menggunakan website statis: framework Other, build command kosong, output directory root. Folder sumber diabaikan Git. Pembaruan lokal ini belum dipush ke GitHub atau dideploy.
+Konfigurasi Vercel menggunakan website statis: framework Other, build command kosong, output directory root. Folder sumber diabaikan Git. Pembaruan branch `main` diterbitkan melalui integrasi GitHub–Vercel ke https://digimetric.vercel.app/.
 
 ## Referensi desain
 

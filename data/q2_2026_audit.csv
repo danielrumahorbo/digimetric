@@ -1,202 +1,238 @@
 ﻿Bank,Metrik,Periode,Nilai,Satuan,Basis,Sumber,Catatan
 ALADIN,Total_Assets,Q2-2026,15142.009,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,Loans,Q2-2026,5560.346,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
-ALADIN,DPK,Q2-2026,9972.783,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,DPK,Q2-2026,9972.783,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,Net_Income,Q2-2026,38.384,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,ROA,Q2-2026,0.43,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,NIM,Q2-2026,1.46,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,CIR,Q2-2026,82.18,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,BOPO,Q2-2026,95.33,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,NPL_gross,Q2-2026,0.43,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
-ALADIN,Total_Assets_Share,Q2-2026,5.779301,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
-ALADIN,DPK_Share,Q2-2026,5.691779,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
-ALADIN,Loans_Share,Q2-2026,3.590292,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,Total_Assets_Share,Q2-2026,5.779301,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,DPK_Share,Q2-2026,5.691779,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,Loans_Share,Q2-2026,3.590292,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,CAR,Q2-2026,43.36,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALADIN,LDR,Q2-2026,55.76,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
-ALADIN,Net_Income_YoY,Q2-2026,-52.041581,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
-ALADIN,Net_Income_Share,Q2-2026,1.956344,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
-ALADIN,CASA,Q2-2026,19.476599,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,Total_Assets_YoY,Q2-2026,46.343026032,%,YoY H1,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,Loans_YoY,Q2-2026,8.706666667,%,YoY H1,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,DPK_YoY,Q2-2026,61.357376262,%,YoY H1,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,Net_Income_YoY,Q2-2026,-52.041581,%,YoY H1,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,Net_Income_Share,Q2-2026,1.956344,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
+ALADIN,CASA,Q2-2026,19.476599,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1Hw-kK4roB6OKAzquSoqe5DkV9Vzy54ZJ/view,"Kredit mencakup piutang dan pembiayaan bagi hasil bruto.; NPL = NPF gross; LDR = FDR; NIM = Net Imbalan (NI), sesuai laporan bank syariah."
 ALLO,Total_Assets,Q2-2026,15571.418,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,Loans,Q2-2026,9546.729,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
-ALLO,DPK,Q2-2026,5826.26,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,DPK,Q2-2026,5826.26,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,Net_Income,Q2-2026,233.674,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,ROA,Q2-2026,4,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,NIM,Q2-2026,10.86,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,CIR,Q2-2026,43.96,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,BOPO,Q2-2026,76.18,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,NPL_gross,Q2-2026,1.73,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
-ALLO,Total_Assets_Share,Q2-2026,5.943195,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
-ALLO,DPK_Share,Q2-2026,3.325229,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
-ALLO,Loans_Share,Q2-2026,6.164283,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,Total_Assets_Share,Q2-2026,5.943195,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,DPK_Share,Q2-2026,3.325229,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,Loans_Share,Q2-2026,6.164283,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,CAR,Q2-2026,66.35,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 ALLO,LDR,Q2-2026,163.86,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
-ALLO,Net_Income_YoY,Q2-2026,2.907901,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
-ALLO,Net_Income_Share,Q2-2026,11.909825,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
-ALLO,CASA,Q2-2026,26.257307,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,Total_Assets_YoY,Q2-2026,9.864015269,%,YoY H1,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,Loans_YoY,Q2-2026,27.495038009,%,YoY H1,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,DPK_YoY,Q2-2026,0.159481298,%,YoY H1,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,Net_Income_YoY,Q2-2026,2.907901,%,YoY H1,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,Net_Income_Share,Q2-2026,11.909825,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
+ALLO,CASA,Q2-2026,26.257307,%,Posisi/rasio publikasi,https://drive.google.com/file/d/12Z41S0FQ_qgvZ85tmw0qaTG0NmzS2Dm2/view,
 AMAR,Total_Assets,Q2-2026,6611.755,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,Loans,Q2-2026,4633.96,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
-AMAR,DPK,Q2-2026,2504.767,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,DPK,Q2-2026,2504.767,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,Net_Income,Q2-2026,143.555,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,ROA,Q2-2026,5.46,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,NIM,Q2-2026,21.91,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,CIR,Q2-2026,34.29,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,BOPO,Q2-2026,84.17,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,NPL_gross,Q2-2026,8.96,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
-AMAR,Total_Assets_Share,Q2-2026,2.523531,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
-AMAR,DPK_Share,Q2-2026,1.429549,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
-AMAR,Loans_Share,Q2-2026,2.992129,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,Total_Assets_Share,Q2-2026,2.523531,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,DPK_Share,Q2-2026,1.429549,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,Loans_Share,Q2-2026,2.992129,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,CAR,Q2-2026,89.86,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 AMAR,LDR,Q2-2026,185.01,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
-AMAR,Net_Income_YoY,Q2-2026,21.657811,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
-AMAR,Net_Income_Share,Q2-2026,7.316667,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
-AMAR,CASA,Q2-2026,28.559662,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,Total_Assets_YoY,Q2-2026,18.503633655,%,YoY H1,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,Loans_YoY,Q2-2026,30.494127573,%,YoY H1,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,DPK_YoY,Q2-2026,41.858731807,%,YoY H1,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,Net_Income_YoY,Q2-2026,21.657811,%,YoY H1,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,Net_Income_Share,Q2-2026,7.316667,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
+AMAR,CASA,Q2-2026,28.559662,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1-E--928nZiUDzKGwGHKqb_oeqEJ02wpq/view,"Laba pembanding Rp117,999 miliar diambil dari baris laba bersih sebelum atribusi, sesuai laba sebelum pajak dikurangi pajak; baris atribusi pembanding di sumber tidak konsisten."
 BLU,Total_Assets,Q2-2026,20818.007,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,Loans,Q2-2026,8991.479,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
-BLU,DPK,Q2-2026,15780.044,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,DPK,Q2-2026,15780.044,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,Net_Income,Q2-2026,129.592,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,ROA,Q2-2026,1.65,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,NIM,Q2-2026,7.05,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,CIR,Q2-2026,54.03,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,BOPO,Q2-2026,83.94,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,NPL_gross,Q2-2026,0.94,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
-BLU,Total_Assets_Share,Q2-2026,7.945679,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
-BLU,DPK_Share,Q2-2026,9.006164,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
-BLU,Loans_Share,Q2-2026,5.805761,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,Total_Assets_Share,Q2-2026,7.945679,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,DPK_Share,Q2-2026,9.006164,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,Loans_Share,Q2-2026,5.805761,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,CAR,Q2-2026,34.45,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 BLU,LDR,Q2-2026,56.98,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
-BLU,Net_Income_YoY,Q2-2026,53.129542,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
-BLU,Net_Income_Share,Q2-2026,6.605006,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
-BLU,CASA,Q2-2026,54.425203,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,Total_Assets_YoY,Q2-2026,16.899627289,%,YoY H1,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,Loans_YoY,Q2-2026,3.307882106,%,YoY H1,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,DPK_YoY,Q2-2026,20.200104432,%,YoY H1,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,Net_Income_YoY,Q2-2026,53.129542,%,YoY H1,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,Net_Income_Share,Q2-2026,6.605006,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
+BLU,CASA,Q2-2026,54.425203,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1c8dTktrzzaND0xHjr6NhwWkvq2-GLKQD/view,
 HIBANK,Total_Assets,Q2-2026,19454.321,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,Loans,Q2-2026,12676.566,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
-HIBANK,DPK,Q2-2026,14369.875,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,DPK,Q2-2026,14369.875,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,Net_Income,Q2-2026,-22.448,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,ROA,Q2-2026,-0.2,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,NIM,Q2-2026,3.44,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,CIR,Q2-2026,77.82,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,BOPO,Q2-2026,102.95,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,NPL_gross,Q2-2026,1.16,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
-HIBANK,Total_Assets_Share,Q2-2026,7.425196,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
-HIBANK,DPK_Share,Q2-2026,8.201337,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
-HIBANK,Loans_Share,Q2-2026,8.185206,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,Total_Assets_Share,Q2-2026,7.425196,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,DPK_Share,Q2-2026,8.201337,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,Loans_Share,Q2-2026,8.185206,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,CAR,Q2-2026,38.53,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 HIBANK,LDR,Q2-2026,85.41,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
-HIBANK,Net_Income_YoY,Q2-2026,-136.890715,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
-HIBANK,Net_Income_Share,Q2-2026,-1.144123,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
-HIBANK,CASA,Q2-2026,31.85217,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,Total_Assets_YoY,Q2-2026,1.382122896,%,YoY H1,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,Loans_YoY,Q2-2026,10.439143265,%,YoY H1,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,DPK_YoY,Q2-2026,2.76781816,%,YoY H1,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,Net_Income_YoY,Q2-2026,-136.890715,%,YoY H1,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,Net_Income_Share,Q2-2026,-1.144123,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
+HIBANK,CASA,Q2-2026,31.85217,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XjkOeCqVQu-7XHwFCWC82EWBZNWUm36a/view,
 JAGO,Total_Assets,Q2-2026,41422.771,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,Loans,Q2-2026,26624.941,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
-JAGO,DPK,Q2-2026,27643.884,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,DPK,Q2-2026,27643.884,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,Net_Income,Q2-2026,189.07,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,ROA,Q2-2026,1.22,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,NIM,Q2-2026,8.48,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,CIR,Q2-2026,56.39,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,BOPO,Q2-2026,89.72,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,NPL_gross,Q2-2026,0.77,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
-JAGO,Total_Assets_Share,Q2-2026,15.809968,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
-JAGO,DPK_Share,Q2-2026,15.777229,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
-JAGO,Loans_Share,Q2-2026,17.191614,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,Total_Assets_Share,Q2-2026,15.809968,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,DPK_Share,Q2-2026,15.777229,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,Loans_Share,Q2-2026,17.191614,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,CAR,Q2-2026,28.38,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 JAGO,LDR,Q2-2026,96.31,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
-JAGO,Net_Income_YoY,Q2-2026,48.793175,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
-JAGO,Net_Income_Share,Q2-2026,9.636462,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
-JAGO,CASA,Q2-2026,52.707818,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,Total_Assets_YoY,Q2-2026,27.734946193,%,YoY H1,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,Loans_YoY,Q2-2026,24.218812401,%,YoY H1,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,DPK_YoY,Q2-2026,23.238257053,%,YoY H1,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,Net_Income_YoY,Q2-2026,48.793175,%,YoY H1,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,Net_Income_Share,Q2-2026,9.636462,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
+JAGO,CASA,Q2-2026,52.707818,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1lu7PjgrthkWROjOe760QOa9pR7AhfB38/view,"Kredit termasuk pembiayaan syariah. DPK adalah giro, tabungan dan simpanan berjangka pada laporan bank; dana UUS tidak ditambahkan kembali."
 KROM,Total_Assets,Q2-2026,15942.961,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,Loans,Q2-2026,11041.451,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
-KROM,DPK,Q2-2026,11999.644,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,DPK,Q2-2026,11999.644,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,Net_Income,Q2-2026,121.008,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,ROA,Q2-2026,2.09,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,NIM,Q2-2026,19.1,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,CIR,Q2-2026,20.7,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,BOPO,Q2-2026,91.13,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,NPL_gross,Q2-2026,3.04,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
-KROM,Total_Assets_Share,Q2-2026,6.085004,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
-KROM,DPK_Share,Q2-2026,6.848572,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
-KROM,Loans_Share,Q2-2026,7.129419,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,Total_Assets_Share,Q2-2026,6.085004,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,DPK_Share,Q2-2026,6.848572,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,Loans_Share,Q2-2026,7.129419,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,CAR,Q2-2026,36.84,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 KROM,LDR,Q2-2026,92.01,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
-KROM,Net_Income_YoY,Q2-2026,65.325027,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
-KROM,Net_Income_Share,Q2-2026,6.167499,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
-KROM,CASA,Q2-2026,21.47652,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,Total_Assets_YoY,Q2-2026,70.895996513,%,YoY H1,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,Loans_YoY,Q2-2026,69.344161347,%,YoY H1,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,DPK_YoY,Q2-2026,112.722004156,%,YoY H1,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,Net_Income_YoY,Q2-2026,65.325027,%,YoY H1,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,Net_Income_Share,Q2-2026,6.167499,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
+KROM,CASA,Q2-2026,21.47652,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1XgjQmW53n610hRmQ87K0uvMM_CX-Jhnx/view,
 NEOBANK,Total_Assets,Q2-2026,17453.519,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,Loans,Q2-2026,7133.351,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
-NEOBANK,DPK,Q2-2026,12295.75,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,DPK,Q2-2026,12295.75,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,Net_Income,Q2-2026,294.848,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,ROA,Q2-2026,3.23,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,NIM,Q2-2026,13.92,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,CIR,Q2-2026,31.61,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,BOPO,Q2-2026,82.31,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,NPL_gross,Q2-2026,2.99,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
-NEOBANK,Total_Assets_Share,Q2-2026,6.661543,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
-NEOBANK,DPK_Share,Q2-2026,7.017569,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
-NEOBANK,Loans_Share,Q2-2026,4.605975,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,Total_Assets_Share,Q2-2026,6.661543,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,DPK_Share,Q2-2026,7.017569,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,Loans_Share,Q2-2026,4.605975,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,CAR,Q2-2026,50.23,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 NEOBANK,LDR,Q2-2026,58.01,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
-NEOBANK,Net_Income_YoY,Q2-2026,6.811184,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
-NEOBANK,Net_Income_Share,Q2-2026,15.027723,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
-NEOBANK,CASA,Q2-2026,32.221003,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,Total_Assets_YoY,Q2-2026,-2.83062729,%,YoY H1,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,Loans_YoY,Q2-2026,-11.788443655,%,YoY H1,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,DPK_YoY,Q2-2026,-7.787571423,%,YoY H1,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,Net_Income_YoY,Q2-2026,6.811184,%,YoY H1,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,Net_Income_Share,Q2-2026,15.027723,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
+NEOBANK,CASA,Q2-2026,32.221003,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1v32OXyxmqyT6QCpJ_1SW4iTbeMZqo_f4/view,
 RAYA,Total_Assets,Q2-2026,12925.804016,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
 RAYA,Loans,Q2-2026,6762.571427,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
-RAYA,DPK,Q2-2026,8117.3227,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,DPK,Q2-2026,8117.3227,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
 RAYA,Net_Income,Q2-2026,12.012126,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
 RAYA,NPL_gross,Q2-2026,4.68,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
-RAYA,Total_Assets_Share,Q2-2026,4.933435,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
-RAYA,DPK_Share,Q2-2026,4.63281,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
-RAYA,Loans_Share,Q2-2026,4.366564,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,Total_Assets_Share,Q2-2026,4.933435,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,DPK_Share,Q2-2026,4.63281,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,Loans_Share,Q2-2026,4.366564,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
 RAYA,CAR,Q2-2026,40.79,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
-RAYA,Net_Income_YoY,Q2-2026,-63.529509,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
-RAYA,Net_Income_Share,Q2-2026,0.61223,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
-RAYA,CASA,Q2-2026,38.093516,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,Total_Assets_YoY,Q2-2026,-3.104925854,%,YoY H1,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,Loans_YoY,Q2-2026,-7.219258293,%,YoY H1,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,DPK_YoY,Q2-2026,-3.403906591,%,YoY H1,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,Net_Income_YoY,Q2-2026,-63.529509,%,YoY H1,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,Net_Income_Share,Q2-2026,0.61223,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
+RAYA,CASA,Q2-2026,38.093516,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1mnit7lJG3zD2lRweC8lByrBnAsFQpOfL/view,"ROA, NIM, BOPO, CIR dan LDR terbaru tidak tersedia dalam sumber; tidak dihitung atau diisi dari periode lama.; Aset: halaman PDF 4; kredit dan DPK: halaman PDF 4–5; laba: halaman PDF 7; NPL dan CAR: catatan risiko/permodalan."
 SAQU,Total_Assets,Q2-2026,16683.655,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,Loans,Q2-2026,8657.117,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
-SAQU,DPK,Q2-2026,8968.895,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,DPK,Q2-2026,8968.895,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,Net_Income,Q2-2026,-109.534,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,ROA,Q2-2026,-1.62,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,NIM,Q2-2026,4.95,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,CIR,Q2-2026,100.01,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,BOPO,Q2-2026,121.73,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,NPL_gross,Q2-2026,1.23,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
-SAQU,Total_Assets_Share,Q2-2026,6.367707,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
-SAQU,DPK_Share,Q2-2026,5.118829,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
-SAQU,Loans_Share,Q2-2026,5.589864,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,Total_Assets_Share,Q2-2026,6.367707,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,DPK_Share,Q2-2026,5.118829,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,Loans_Share,Q2-2026,5.589864,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,CAR,Q2-2026,76.88,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,LDR,Q2-2026,92.36,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
-SAQU,Net_Income_YoY,Q2-2026,-2.314676,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
-SAQU,Net_Income_Share,Q2-2026,-5.582695,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
-SAQU,CASA,Q2-2026,25.366068,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,Total_Assets_YoY,Q2-2026,25.312056683,%,YoY H1,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,Loans_YoY,Q2-2026,70.856586416,%,YoY H1,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,DPK_YoY,Q2-2026,36.063231534,%,YoY H1,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,Net_Income_YoY,Q2-2026,-2.314676,%,YoY H1,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,Net_Income_Share,Q2-2026,-5.582695,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
+SAQU,CASA,Q2-2026,25.366068,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,LCR,Q2-2026,395.92,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SAQU,NSFR,Q2-2026,172.15,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1BqW5r0kdFB0xcIQJCy-mc4KmcX_mcUoW/view,
 SEABANK,Total_Assets,Q2-2026,52972.333,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,Loans,Q2-2026,39807.002,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
-SEABANK,DPK,Q2-2026,41802.735,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,DPK,Q2-2026,41802.735,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,Net_Income,Q2-2026,749.258,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,ROA,Q2-2026,3.86,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,NIM,Q2-2026,21.88,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,CIR,Q2-2026,21.15,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,BOPO,Q2-2026,85.93,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,NPL_gross,Q2-2026,1.65,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
-SEABANK,Total_Assets_Share,Q2-2026,20.218128,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
-SEABANK,DPK_Share,Q2-2026,23.858127,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
-SEABANK,Loans_Share,Q2-2026,25.703215,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,Total_Assets_Share,Q2-2026,20.218128,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,DPK_Share,Q2-2026,23.858127,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,Loans_Share,Q2-2026,25.703215,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,CAR,Q2-2026,20.2,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SEABANK,LDR,Q2-2026,95.23,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
-SEABANK,Net_Income_YoY,Q2-2026,250.438248,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
-SEABANK,Net_Income_Share,Q2-2026,38.187953,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
-SEABANK,CASA,Q2-2026,69.620679,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,Total_Assets_YoY,Q2-2026,43.065290427,%,YoY H1,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,Loans_YoY,Q2-2026,53.109942911,%,YoY H1,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,DPK_YoY,Q2-2026,47.594763497,%,YoY H1,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,Net_Income_YoY,Q2-2026,250.438248,%,YoY H1,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,Net_Income_Share,Q2-2026,38.187953,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
+SEABANK,CASA,Q2-2026,69.620679,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1j0-TDeK8loxBq6lDvxpRHP0Wf7DzyNhs/view,
 SUPERBANK,Total_Assets,Q2-2026,27005.584,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,Loans,Q2-2026,13436.168,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
-SUPERBANK,DPK,Q2-2026,15931.854,Rp miliar,Dihitung: giro + tabungan + deposito,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,DPK,Q2-2026,15931.854,Rp miliar,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,Net_Income,Q2-2026,182.608,Rp miliar,Kumulatif Jan–Jun,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,ROA,Q2-2026,1.94,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,NIM,Q2-2026,8.74,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,CIR,Q2-2026,54.78,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,BOPO,Q2-2026,85,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,NPL_gross,Q2-2026,1.64,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
-SUPERBANK,Total_Assets_Share,Q2-2026,10.307312,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
-SUPERBANK,DPK_Share,Q2-2026,9.092807,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
-SUPERBANK,Loans_Share,Q2-2026,8.675678,%,Dihitung: nilai bank / agregat 12 bank × 100,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,Total_Assets_Share,Q2-2026,10.307312,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,DPK_Share,Q2-2026,9.092807,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,Loans_Share,Q2-2026,8.675678,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,CAR,Q2-2026,74.54,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
 SUPERBANK,LDR,Q2-2026,84.34,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
-SUPERBANK,Net_Income_YoY,Q2-2026,790.423249,%,Dihitung: (H1 2026 − H1 2025) / |H1 2025| × 100,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
-SUPERBANK,Net_Income_Share,Q2-2026,9.307109,%,Dihitung: laba bank / laba neto sektor × 100,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
-SUPERBANK,CASA,Q2-2026,21.826983,%,Dihitung: (giro + tabungan) / DPK × 100,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,Total_Assets_YoY,Q2-2026,81.531106654,%,YoY H1,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,Loans_YoY,Q2-2026,60.942336984,%,YoY H1,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,DPK_YoY,Q2-2026,89.097545887,%,YoY H1,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,Net_Income_YoY,Q2-2026,790.423249,%,YoY H1,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,Net_Income_Share,Q2-2026,9.307109,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
+SUPERBANK,CASA,Q2-2026,21.826983,%,Posisi/rasio publikasi,https://drive.google.com/file/d/1FCXafjl1K5Jtxr-ks_M50ToR4v2Ez31R/view,
