@@ -45,6 +45,8 @@ Laba H1 2025 Aladin pada publikasi asli Rp83,123 miliar berbeda dari kolom pemba
 
 ### Definisi dan batasan
 
+Koreksi kelengkapan Jago FY2025: aset Rp36.507,347 miliar, DPK Rp25.898,491 miliar, kredit/pembiayaan bruto Rp24.346,604 miliar dan laba Rp276,234 miliar dilengkapi dari laporan auditan resmi bank (halaman PDF 11, 12 dan 14). DPK termasuk deposito mudharabah nasabah Rp301,158 miliar. CASA dan YoY dihitung dari komponen laporan yang sama. Seluruh pangsa FY2025 dihitung ulang karena penambahan Jago mengubah denominator sektor. Rasio FY2025 lainnya tetap dari dataset awal, belum diverifikasi ulang. Transkripsi dan audit terdapat di `data/reviewed_jago_fy2025.json` dan `data/fy2025_audit.csv`; impor di `scripts/import_jago_fy2025.py`.
+
 Satuan laporan Rp juta dibagi 1000; Raya memakai Rp ribu dan dibagi 1000000. DPK = giro + tabungan + deposito nasabah. CASA dihitung dari (giro + tabungan) / DPK. Kredit Jago mencakup pembiayaan syariah; kredit Aladin mencakup piutang dan pembiayaan bagi hasil bruto. Rasio mengikuti publikasi bank dan tidak diisi dari periode lain.
 
 Untuk Aladin, NPL dipadankan ke NPF gross, LDR ke FDR, dan NIM ke Net Imbalan (NI). Perbedaan ini tercatat di sumber. Rasio Raya yang tidak tersedia—ROA, NIM, BOPO, CIR dan LDR—tetap kosong. Laba H1 2025 Amar memakai baris laba bersih sebelum atribusi yang konsisten dengan laba sebelum pajak dikurangi pajak; terdapat ketidakkonsistenan pada baris atribusi di PDF. Riwayat korporasi dari repo awal bersifat indikatif dan belum diverifikasi ulang.

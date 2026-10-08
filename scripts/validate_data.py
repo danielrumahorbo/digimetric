@@ -56,3 +56,15 @@ for row in new_audit:
 assert d['values']['ALADIN']['Net_Income'][q]==83.123
 assert d['sourcesByPeriod'][p]['ALADIN']['comparativeIncome']==80.036
 print('PASS: 194 Q2 2025 observations, 36 balance YoY values, source links and separate Aladin income bases.')
+
+jago=json.loads((root/'data/reviewed_jago_fy2025.json').read_text(encoding='utf8'))
+j=d['values']['JAGO'];fy='FY2025'
+assert j['Total_Assets'][fy]==36507.347 and j['Loans'][fy]==24346.604
+assert j['Net_Income'][fy]==276.234 and j['DPK'][fy]==25898.491
+assert math.isclose(j['CASA'][fy],(jago['giro']+jago['tabungan'])/j['DPK'][fy]*100,abs_tol=1e-8)
+for metric in ['Total_Assets','Loans','DPK','Net_Income']:
+    total=sum(d['values'][b][metric][fy] for b in bs)
+    for b in bs:
+        assert math.isclose(d['values'][b][metric+'_Share'][fy],d['values'][b][metric][fy]/total*100,abs_tol=1e-8)
+assert len(list(csv.DictReader((root/'data/fy2025_audit.csv').open(encoding='utf-8-sig'))))==13
+print('PASS: Jago FY2025 audited amounts, CASA and sector shares including all 12 banks.')

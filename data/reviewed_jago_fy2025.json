@@ -1,0 +1,21 @@
+{
+  "assets": 36507.347,
+  "loans": 24346.604,
+  "giro": 4875.714,
+  "tabungan": 7971.747,
+  "deposito": 12749.872,
+  "mudharabah": 301.158,
+  "income": 276.234,
+  "priorAssets": 28542.712,
+  "priorLoans": 17701.486,
+  "priorDPK": 18598.409,
+  "priorIncome": 128.518,
+  "unit": "Rp miliar",
+  "pages": {
+    "assets": 11,
+    "loans": 11,
+    "deposits": 12,
+    "income": 14
+  },
+  "url": "https://assets.jago.com/web-assets/public/LKFS_PT%20Bank%20Jago%20Tbk_31%20Dec%2025_combined.pdf"
+}
