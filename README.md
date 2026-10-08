@@ -92,3 +92,22 @@ Tidak menggunakan paket template UI, menyalin aset referensi, atau memerlukan li
 
 ## Identitas bank
 Semua 12 logo memakai aset asli situs resmi bank, disimpan lokal di `assets/banks/`. Sumber lengkap dan tanggal pengambilan ada di `assets/banks/sources.json`. Warna dan rasio logo dipertahankan dengan `object-fit: contain`.
+
+
+## Unggah Excel khusus admin
+
+Website membaca database bersama melalui `/api/dataset`. Admin membuka `/#admin`, masuk, memilih template `.xlsx`, memeriksa ringkasan, lalu menerapkan pembaruan. Hanya sheet `Detail Upload` dibaca: `B1=DIGIMETRIC_V1`, header tetap pada baris 7. Tiga sheet analisis tidak dipakai sebagai input.
+
+Konfigurasi Vercel:
+
+1. Buat Vercel Blob **Private** dan hubungkan ke proyek DigiMetric pada Production. SDK menggunakan `BLOB_READ_WRITE_TOKEN` atau `BLOB_STORE_ID` bersama identitas Vercel.
+2. Pemilik mengisi environment variable sensitif `DIGIMETRIC_ADMIN_PASSWORD` (minimal 16 karakter), hanya Production. Jangan simpan kata sandi di repository atau browser JavaScript.
+3. Redeploy setelah menambahkan environment variables. Tanpa konfigurasi, dashboard tetap membaca dataset awal dan fitur admin ditutup.
+
+Unggahan menggunakan kunci emiten × metrik × periode × cakupan. Baris yang dihilangkan dari file tidak menghapus histori; `MISSING` dengan nilai kosong menghapus nilai pada kunci yang sama. Angka nominal wajib Rp miliar; angka persen memakai poin persen, misalnya 3.86 berarti 3.86%. Tidak ada pembulatan nilai simpanan atau penghitungan diam-diam metrik turunan. Tambahkan angka turunan yang sudah dihitung ke Excel.
+
+Emiten, metrik dan periode baru ditambahkan dari metadata di tabel. Dashboard menggunakan `Cakupan_Utama` emiten; data cakupan lain tetap disimpan dalam observasi. Periode terbaru dan filter mengikuti database. Ringkasan sektor tetap memakai metrik perbankan utama; metrik lain tersedia di explorer, peringkat dan pembanding.
+
+Validasi dilakukan kembali pada server. Sesi admin memiliki cookie HttpOnly, Secure, SameSite=Strict, berlaku satu jam. Simpanan memakai ETag untuk mencegah perubahan bersamaan menimpa data; backup privat dibuat sebelum setiap pembaruan. Backup dapat dipulihkan oleh pengelola dari Blob jika diperlukan. Maksimal 10 MB Excel dan 4 MB JSON per unggahan; database besar dapat diperbarui bertahap.
+
+Jalankan `npm install` lalu `npm test` untuk menguji file template asli, pelestarian angka, histori/cakupan, validasi, sesi admin dan konflik revisi.

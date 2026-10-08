@@ -1,5 +1,6 @@
 {
   "cleanUrls": true,
+  "functions": {"api/*.js": {"includeFiles": "data/dashboard_data.json"}},
   "headers": [
     {
       "source": "/data/(.*)",
