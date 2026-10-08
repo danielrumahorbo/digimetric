@@ -1,5 +1,5 @@
 import {createHmac, timingSafeEqual} from 'node:crypto';
-export const configured=()=>Boolean(process.env.DIGIMETRIC_ADMIN_PASSWORD?.length>=16 && (process.env.BLOB_READ_WRITE_TOKEN||process.env.BLOB_STORE_ID));
+export const configured=()=>Boolean(process.env.DIGIMETRIC_ADMIN_PASSWORD?.length>=8 && (process.env.BLOB_READ_WRITE_TOKEN||process.env.BLOB_STORE_ID));
 const signature=value=>createHmac('sha256',process.env.DIGIMETRIC_ADMIN_PASSWORD||'disabled').update(value).digest('hex');
 export function equal(a,b){const x=Buffer.from(String(a)),y=Buffer.from(String(b));return x.length===y.length&&timingSafeEqual(x,y);}
 export function session(now=Date.now()){const expiry=String(now+3600000);return `${expiry}.${signature(expiry)}`;}

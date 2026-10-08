@@ -101,7 +101,7 @@ Website membaca database bersama melalui `/api/dataset`. Admin membuka `/#admin`
 Konfigurasi Vercel:
 
 1. Buat Vercel Blob **Private** dan hubungkan ke proyek DigiMetric pada Production. SDK menggunakan `BLOB_READ_WRITE_TOKEN` atau `BLOB_STORE_ID` bersama identitas Vercel.
-2. Pemilik mengisi environment variable sensitif `DIGIMETRIC_ADMIN_PASSWORD` (minimal 16 karakter), hanya Production. Jangan simpan kata sandi di repository atau browser JavaScript.
+2. Pemilik mengisi environment variable sensitif `DIGIMETRIC_ADMIN_PASSWORD` (minimal 8 karakter), hanya Production. Jangan simpan kata sandi di repository atau browser JavaScript.
 3. Redeploy setelah menambahkan environment variables. Tanpa konfigurasi, dashboard tetap membaca dataset awal dan fitur admin ditutup.
 
 Unggahan menggunakan kunci emiten × metrik × periode × cakupan. Baris yang dihilangkan dari file tidak menghapus histori; `MISSING` dengan nilai kosong menghapus nilai pada kunci yang sama. Angka nominal wajib Rp miliar; angka persen memakai poin persen, misalnya 3.86 berarti 3.86%. Tidak ada pembulatan nilai simpanan atau penghitungan diam-diam metrik turunan. Tambahkan angka turunan yang sudah dihitung ke Excel.
