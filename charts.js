@@ -1,7 +1,7 @@
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const num=v=>new Intl.NumberFormat('id-ID',{maximumFractionDigits:3}).format(v);
 const money=v=>`Rp ${num(v)} miliar`;
-const table=(heads,rows)=>`<details class="chart-data"><summary>Lihat angka dalam tabel</summary><div class="table-wrap" tabindex="0"><table><thead><tr>${heads.map(h=>`<th scope="col">${esc(h)}</th>`).join('')}</tr></thead><tbody>${rows.map(r=>`<tr>${r.map(v=>`<td>${esc(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div></details>`;
+const table=(heads,rows)=>`<details class="chart-data"><summary>Tabel data</summary><div class="table-wrap" tabindex="0"><table><thead><tr>${heads.map(h=>`<th scope="col">${esc(h)}</th>`).join('')}</tr></thead><tbody>${rows.map(r=>`<tr>${r.map(v=>`<td>${esc(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div></details>`;
 const figure=(title,body)=>`<figure class="visual-chart"><figcaption class="sr-only">${esc(title)}</figcaption>${body}</figure>`;
 export function divergingBars(rows,{title='Perbandingan nilai',unit='Rp miliar'}={}){
  rows=rows.filter(r=>Number.isFinite(r.value));if(!rows.length)return'<p class="empty">Data belum tersedia.</p>';
@@ -12,7 +12,7 @@ export function divergingBars(rows,{title='Perbandingan nilai',unit='Rp miliar'}
  for(const [i,r] of rows.entries()){
   const y=14+i*42,end=x(r.value);shapes+=`<text class="chart-label" x="${l-12}" y="${y+19}" text-anchor="end">${esc(r.name)}</text><rect x="${Math.min(zero,end)}" y="${y}" width="${Math.max(Math.abs(end-zero),r.value===0?0:1)}" height="27" rx="3" fill="${r.value<0?'#a93847':r.color||'#315cba'}"><title>${esc(r.name)}: ${num(r.value)} ${esc(unit)}</title></rect><text class="chart-value" x="${w-right+12}" y="${y+19}">${num(r.value)}</text>`;
  }
- return figure(title,`<p class="chart-unit">${esc(unit)}. Batang di kiri nol menunjukkan nilai negatif.</p><div class="chart-scroll" tabindex="0" aria-label="Grafik dapat digeser ke samping"><svg class="chart-svg bar-chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(title)}"><title>${esc(title)}</title>${shapes}</svg></div>`+table(['Bank / periode',`Nilai (${unit})`],rows.map(r=>[r.name,num(r.value)])));
+ return figure(title,`<p class="chart-unit">${esc(unit)}</p><div class="chart-scroll" tabindex="0" aria-label="Grafik dapat digeser ke samping"><svg class="chart-svg bar-chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="${esc(title)}"><title>${esc(title)}</title>${shapes}</svg></div>`+table(['Bank / periode',`Nilai (${unit})`],rows.map(r=>[r.name,num(r.value)])));
 }
 export function assetDonut(rows){
  rows=rows.filter(r=>Number.isFinite(r.value)&&r.value>0).sort((a,b)=>b.value-a.value);const total=rows.reduce((s,r)=>s+r.value,0);if(!total)return'<p class="empty">Data aset belum tersedia.</p>';
@@ -27,7 +27,7 @@ export function relationshipChart(rows){
  let shapes='';for(let i=0;i<=4;i++){const vx=max*i/4,vy=low+(high-low)*i/4;shapes+=`<line class="chart-gridline" x1="${l}" x2="${w-r}" y1="${y(vy)}" y2="${y(vy)}"/><text x="${l-9}" y="${y(vy)+4}" text-anchor="end">${num(vy)}%</text><text x="${x(vx)}" y="${h-b+20}" text-anchor="middle">${num(vx/1000)}</text>`;}
  shapes+=`<line class="zero-line" x1="${l}" x2="${w-r}" y1="${y(0)}" y2="${y(0)}"/><text x="${w/2}" y="${h-9}" text-anchor="middle">Total aset (Rp triliun)</text>`;
  rows.forEach(row=>{shapes+=`<circle cx="${x(row.assets)}" cy="${y(row.roa)}" r="7" fill="${row.color||'#315cba'}" stroke="#fff" stroke-width="1.5"><title>${esc(row.name)}: aset ${money(row.assets)}, ROA ${num(row.roa)}%</title></circle><text class="chart-label" x="${x(row.assets)+10}" y="${y(row.roa)-8}">${esc(row.code)}</text>`;});
- return figure('Ukuran bank dan tingkat profitabilitas',`<p class="chart-unit">Sumbu tegak: ROA (%), laba relatif terhadap aset. Lebih ke kanan = aset lebih besar; lebih ke atas = ROA lebih tinggi.</p><div class="chart-scroll" tabindex="0" aria-label="Grafik dapat digeser ke samping"><svg viewBox="0 0 ${w} ${h}" class="chart-svg scatter-chart" role="img" aria-label="Hubungan total aset dan ROA"><title>Aset dan ROA. Hubungan ini tidak menunjukkan sebab akibat.</title>${shapes}</svg></div>`+table(['Kode','Bank','Aset (Rp miliar)','ROA (%)'],rows.map(r=>[r.code,r.name,num(r.assets),num(r.roa)])));
+ return figure('Total aset dan ROA',`<p class="chart-unit">Sumbu horizontal: total aset · Sumbu vertikal: ROA (%)</p><div class="chart-scroll" tabindex="0" aria-label="Grafik dapat digeser ke samping"><svg viewBox="0 0 ${w} ${h}" class="chart-svg scatter-chart" role="img" aria-label="Hubungan total aset dan ROA"><title>Total aset dan ROA</title>${shapes}</svg></div>`+table(['Kode','Bank','Aset (Rp miliar)','ROA (%)'],rows.map(r=>[r.code,r.name,num(r.assets),num(r.roa)])));
 }
 export function incomeColumns(rows){
  rows=rows.filter(r=>Number.isFinite(r.value));if(!rows.length)return'<p class="empty">Laba tahunan belum tersedia.</p>';
@@ -35,5 +35,5 @@ export function incomeColumns(rows){
  let shapes='';for(let i=0;i<=4;i++){const v=lo+span*i/4;shapes+=`<line class="chart-gridline" x1="${l}" x2="${w-r}" y1="${y(v)}" y2="${y(v)}"/><text x="${l-10}" y="${y(v)+4}" text-anchor="end">${num(v)}</text>`;}
  shapes+=`<line class="zero-line" x1="${l}" x2="${w-r}" y1="${y(0)}" y2="${y(0)}"/>`;
  rows.forEach((row,i)=>{const x=l+step*i+step*.2;shapes+=`<rect x="${x}" y="${Math.min(y(0),y(row.value))}" width="${step*.6}" height="${Math.abs(y(0)-y(row.value))}" fill="${row.value<0?'#a93847':'#315cba'}" rx="3"><title>${esc(row.name)}: ${money(row.value)}</title></rect><text x="${x+step*.3}" y="${row.value<0?y(row.value)+17:y(row.value)-10}" text-anchor="middle" class="chart-value">${num(row.value)}</text><text x="${x+step*.3}" y="${h-12}" text-anchor="middle">${esc(row.name)}</text>`;});
- return figure('Laba bersih tahunan',`<p class="chart-unit">Rp miliar. Setiap batang mewakili laba setahun penuh; negatif berarti rugi.</p><div class="chart-scroll" tabindex="0" aria-label="Grafik dapat digeser ke samping"><svg class="chart-svg column-chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="Laba bersih tahunan"><title>Laba bersih tahunan</title>${shapes}</svg></div>`+table(['Tahun','Laba bersih (Rp miliar)'],rows.map(r=>[r.name,num(r.value)])));
+ return figure('Laba bersih tahunan',`<p class="chart-unit">Rp miliar · Januari–Desember</p><div class="chart-scroll" tabindex="0" aria-label="Grafik dapat digeser ke samping"><svg class="chart-svg column-chart" viewBox="0 0 ${w} ${h}" role="img" aria-label="Laba bersih tahunan"><title>Laba bersih tahunan</title>${shapes}</svg></div>`+table(['Tahun','Laba bersih (Rp miliar)'],rows.map(r=>[r.name,num(r.value)])));
 }
