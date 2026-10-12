@@ -8,7 +8,14 @@ export async function mountAdmin(main,dataset,onSaved){
  const input=main.querySelector('#database-file'),message=main.querySelector('#upload-message'),result=main.querySelector('#import-result');
  main.querySelector('a[download]').onclick=async e=>{
   e.preventDefault();message.textContent='Menyiapkan Excel dari database terbaru…';
-  try{const E=await excel();const response=await fetch('/api/dataset',{cache:'no-store'});if(!response.ok)throw new Error('Database terbaru belum bisa dimuat. Coba lagi.');const latest=await response.json(),wb=buildSimpleWorkbook(E,latest),bytes=await wb.xlsx.writeBuffer(),url=URL.createObjectURL(new Blob([bytes],{type:'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'}));const a=document.createElement('a');a.href=url;a.download='DigiMetric_Template_Sederhana.xlsx';a.click();setTimeout(()=>URL.revokeObjectURL(url),60000);message.textContent='Excel terbaru berhasil disiapkan. Isi angka, lalu pilih file untuk mengunggah.';}catch(error){message.textContent=error.message;message.className='negative';}
+  try{
+   const E=await excel(),response=await fetch('/api/dataset',{cache:'no-store'});
+   if(!response.ok)throw new Error('Database terbaru belum bisa dimuat. Coba lagi.');
+   const latest=await response.json();dataset=latest;
+   const wb=buildSimpleWorkbook(E,latest),bytes=await wb.xlsx.writeBuffer(),url=URL.createObjectURL(new Blob([bytes],{type:'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'}));
+   const a=document.createElement('a');a.href=url;a.download='DigiMetric_Template_Sederhana.xlsx';a.click();setTimeout(()=>URL.revokeObjectURL(url),60000);
+   message.textContent='Excel terbaru berhasil disiapkan. Isi angka, lalu pilih file untuk mengunggah.';
+  }catch(error){message.textContent=error.message;message.className='negative';}
  };
  input.onchange=async e=>{
   const file=e.target.files[0];if(!file)return;input.disabled=true;result.innerHTML='';message.className='';message.textContent='Membaca dan memeriksa Excel…';
