@@ -48,3 +48,31 @@ table{font-size:12px}th,.sort-button{font-size:11px}td{padding-top:14px;padding-
 @media(max-width:980px){.chart-grid{grid-template-columns:1fr}.market-list{grid-template-columns:1fr 1fr}.market-row{grid-template-columns:62px minmax(0,1fr) auto}}
 @media(max-width:720px){.page-heading h1{font-size:28px}.page-heading p{font-size:12px}.nav-item{font-size:11px}.kpi,.kpi:first-child{padding:17px 14px}.kpi-value{font-size:25px}.kpi-top{font-size:11px}.kpi-bottom,.delta{font-size:10px}.market-list{grid-template-columns:1fr;gap:18px}.market-row{grid-template-columns:72px minmax(0,1fr) auto;gap:13px}.market-row .bank-avatar{width:72px;height:36px}.market-row>.market-value{grid-column:auto;display:block}.market-row>.market-value small{margin-top:5px}.market-name{font-size:12px}.profile-heading{gap:13px}.profile-heading .bank-avatar{width:100px;height:52px}.profile-heading h1{font-size:24px}.bank-chip{font-size:11px;padding:8px}.bank-chip .bank-avatar{width:44px;height:24px}.table-foot{font-size:10px;flex-wrap:wrap}.top-actions .button{font-size:10px}.breadcrumb{font-size:10px}.compare-summary .bank-line{flex-wrap:wrap}.bank-line strong{font-size:12px}}
 @media(max-width:720px){nav{scrollbar-width:none;padding-bottom:12px}nav::-webkit-scrollbar{display:none}}
+
+/* Clear labels, readable text and generous controls for a broad audience. */
+:root{--muted:#4d5d71;--faint:#526278}
+body{font-size:16px;line-height:1.55}
+.nav-item,.button,.field select,.field input,.search-input,.bank-chip{font-size:14px;min-height:44px}
+.nav-item{padding-top:12px;padding-bottom:12px}.field>span{font-size:14px}
+.page-heading p,.panel-heading p,.table-toolbar p,.period-note,.legend,.chart-unit,.chart-footnote,.note,.data-notice,.table-foot,.source-link,.footer,.breadcrumb,.data-badge{font-size:14px;line-height:1.65}
+.panel-heading h2,.table-toolbar h2{font-size:18px;line-height:1.4}
+table,th,.sort-button,.bank-line strong,.market-name,.market-value,.insight,.insight strong,.ratio-row,.profile-details dd,.method-list,.timeline li{font-size:14px}
+.sort-button{min-height:44px}.table-wrap:focus-visible{outline:3px solid #315cba;outline-offset:-3px}
+.kpi-top,.kpi-bottom,.delta,.profile-details dt{font-size:14px}.kpi-value{font-size:30px}
+.chart-svg text{fill:#34455c;font-size:13px}.chart-svg .chart-value,.chart-svg .chart-label{font-size:14px;fill:#243746}
+.zero-line{stroke:#526278;stroke-width:1.3}.chart-gridline{stroke:#dce3eb}
+.visual-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.25fr);gap:20px;margin:22px 0}
+.relationship-panel{margin-bottom:22px}.visual-chart{margin:0}.chart-scroll{overflow-x:auto;padding-bottom:8px}.chart-scroll .chart-svg{min-width:600px}
+.donut-layout{display:flex;align-items:center;gap:18px;flex-wrap:wrap}.donut-chart{width:210px;max-width:100%;flex:0 0 210px}.donut-chart text{font-size:15px;fill:#34455c}.donut-chart .donut-total{font-size:28px;font-weight:650;fill:#243746}
+.donut-key{list-style:none;margin:0;padding:0;flex:1;min-width:180px}.donut-key li{display:grid;grid-template-columns:12px 1fr auto;gap:9px;align-items:center;padding:10px 0;font-size:14px}.color-key{width:12px;height:12px;border-radius:3px}
+.chart-data,.reading-guide{border:1px solid #dce3eb;border-radius:6px;margin-top:16px}.chart-data summary,.reading-guide summary{padding:12px 14px;cursor:pointer;font-size:14px;font-weight:600;min-height:44px;background:#f6f8fb;color:#20364B}.reading-guide{margin:0 0 22px}.reading-guide>div{padding:0 18px}.reading-guide p{font-size:15px}
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.upload-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;list-style:none;padding:0}.upload-steps li{background:#f6f8fb;padding:18px;border:1px solid #dce3eb;border-radius:6px}.upload-steps strong,.upload-steps span{display:block}.upload-steps span{margin-top:8px;font-size:15px}.upload-field{max-width:600px;margin:24px 0}.upload-workspace{max-width:1100px}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #315cba;outline-offset:3px}
+.large-text .nav-item,.large-text .button,.large-text .field select,.large-text .field input,.large-text .field>span,.large-text .search-input,.large-text .bank-chip,.large-text table,.large-text th,.large-text .sort-button,.large-text .bank-line strong,.large-text .chart-footnote,.large-text .table-foot,.large-text .period-note,.large-text .note,.large-text .source-link,.large-text .legend,.large-text .chart-unit,.large-text .panel-heading p,.large-text .kpi-top,.large-text .kpi-bottom,.large-text .delta,.large-text summary{font-size:18px}
+.large-text .chart-svg text{font-size:16px}.large-text .page-heading h1{font-size:36px}
+@media(max-width:1050px){.visual-grid{grid-template-columns:1fr}.upload-steps{grid-template-columns:1fr}}
+@media(max-width:720px){main{padding:24px 16px}.topbar{height:auto;min-height:64px;flex-wrap:wrap;padding:10px 16px;gap:8px}.top-actions{flex-wrap:wrap}.top-actions .button{font-size:14px;min-height:44px;padding:9px}.top-actions #text-size span{display:none}.period-note{flex-direction:column;align-items:flex-start}.period-note>span:last-child{max-width:100%;text-align:left}.kpi-grid{grid-template-columns:1fr 1fr}.kpi-top{font-size:14px}.kpi-value{font-size:25px;white-space:normal}.kpi-bottom,.delta{font-size:13px}.nav-item{font-size:14px}.market-name,.market-value{font-size:14px}.panel-heading{flex-wrap:wrap}.filters .field{min-width:150px}.profile-heading{flex-wrap:wrap}.ratio-list{grid-template-columns:1fr}.donut-layout{justify-content:center}.donut-key{width:100%}.chart-grid .chart-svg{min-width:460px}.chart-grid .panel-body{overflow-x:auto}}
+@media(max-width:380px){.kpi-grid{grid-template-columns:1fr}}
+@media(min-width:721px){.chart-scroll .chart-svg{min-width:0}.bar-chart text{font-size:16px}.bar-chart .chart-label,.bar-chart .chart-value{font-size:16px}}
+@media(max-width:720px){nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));overflow:visible;gap:5px;padding-bottom:14px}.nav-item{white-space:normal;line-height:1.35;min-width:0}.nav-item:last-child{grid-column:1/-1}.chart-sub .segmented button{font-size:13px;min-height:44px}.sidebar{padding-top:16px}}

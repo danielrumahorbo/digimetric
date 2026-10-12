@@ -1,4 +1,5 @@
 import {SCHEMA,DATA_HEADERS,validatePayload} from './import-core.js';
+import {simplePayload} from './simple-reader.js';
 export const DETAIL_HEADERS=[...DATA_HEADERS,'Nama_Emiten','Nama_Legal','Sektor','Ticker','Cakupan_Utama','Nama_Metrik','Kelompok','Jenis','Arah_Baik'];
 function cellValue(cell){const v=cell?.value??null;if(v&&typeof v==='object'){
  if(v instanceof Date)return v.toISOString().slice(0,10);
@@ -6,7 +7,8 @@ function cellValue(cell){const v=cell?.value??null;if(v&&typeof v==='object'){
  if(v.richText)return v.richText.map(x=>x.text).join('');if(v.hyperlink)return v.text||v.hyperlink;
  throw new Error(`Sel ${cell.address}: jenis data tidak didukung.`);
 }return v;}
-export function payloadFromWorkbook(workbook){
+export function payloadFromWorkbook(workbook,dataset){
+ if(workbook.getWorksheet('Isi Data'))return simplePayload(workbook,dataset,cellValue);
  const s=workbook.getWorksheet('Detail Upload');if(!s)throw new Error('Sheet Detail Upload tidak ditemukan. Gunakan template baku.');
  if(cellValue(s.getCell('B1'))!==SCHEMA)throw new Error('SchemaVersion harus DIGIMETRIC_V1.');
  DETAIL_HEADERS.forEach((h,i)=>{if(cellValue(s.getRow(7).getCell(i+1))!==h)throw new Error(`Header kolom ${i+1} harus ${h}.`);});

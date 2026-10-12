@@ -24,6 +24,9 @@ th{background:#1b232e;color:#bbc6d6}td{border-bottom-color:#28323f}tbody tr:hove
 .footer>span:first-child{color:#c6d1e0}.skip-link{background:var(--surface);color:var(--ink)}
 .toast{background:#dbe7ff;color:#182639}.source-link,.panel-header-action{color:var(--blue)}
 *{scrollbar-color:#495970 #171d25}::selection{background:#385688;color:#fff}
+.chart-data,.reading-guide,.upload-steps li{border-color:var(--line)}
+.chart-data summary,.reading-guide summary,.upload-steps li{background:var(--surface-raised);color:var(--ink)}
+.donut-chart text,.donut-chart .donut-total{fill:var(--ink)}.zero-line{stroke:#a6b4c7}
 @media print{
  :root{color-scheme:light;--ink:#182331;--muted:#536075;--faint:#667385;--line:#dce2e9;--blue:#315cdb;--green:#18795d;--red:#b34245}
  body,.panel,.kpi,.profile-description,.insight-strip{background:#fff;color:var(--ink)}th{background:#f5f7fa;color:var(--muted)}.chart-svg text{fill:#536075}.chart-point{fill:#fff}.chart-gridline{stroke:#dce2e9}.note{background:#f5f7fa}

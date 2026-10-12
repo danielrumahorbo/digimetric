@@ -15,7 +15,7 @@ export async function current(){
 }
 export async function apply(input,{read=current,write=put}={}){
  const {dataset,etag}=await read();
- if(input.revision!==dataset.meta.revision){const e=new Error('Database telah diperbarui admin lain. Periksa ulang file sebelum menerapkan.');e.status=409;throw e;}
+ if(input.revision!==dataset.meta.revision){const e=new Error('Database telah diperbarui pengguna lain. Muat ulang halaman lalu pilih kembali file Anda.');e.status=409;throw e;}
  const result=mergePayload(dataset,input.payload,{revision:randomUUID()});
  if(!input.commit)return {report:result.report,revision:dataset.meta.revision};
  const options={access:'private',addRandomSuffix:false,contentType:'application/json',cacheControlMaxAge:60};
